@@ -1,8 +1,7 @@
 {
   "ideas": [
     {
-      "id": "1",
-      "title": "Airbnb for Garages",
+      "title": "Airbnb for Garages II",
       "summary": "Rent out your garage for storage or parking.",
       "description": "This platform allows homeowners to monetize unused garage space by offering it for short- or long-term storage, parking, or even micro-offices. Think Airbnb, but for underutilized residential garages. It could also provide insurance, keyless access, and a rating system for trust and safety.",
       "tags": [
@@ -10,11 +9,10 @@
         "marketplace",
         "sharing economy"
       ],
-      "createdAt": "2025-04-27T10:00:00.000Z"
+      "id": "1"
     },
     {
-      "id": "2",
-      "title": "Local Farm Box Subscription",
+      "title": "Local Farm Box Subscription II",
       "summary": "Weekly produce delivery from nearby farms.",
       "description": "A subscription box service connecting local farmers with urban dwellers looking for fresh produce. Customers receive a curated box each week containing fruits, vegetables, and artisanal goods sourced directly from nearby growers. It encourages local commerce, healthy eating, and seasonal variety.",
       "tags": [
@@ -22,11 +20,10 @@
         "local",
         "marketplace"
       ],
-      "createdAt": "2025-04-28T14:30:00.000Z"
+      "id": "2"
     },
     {
-      "id": "3",
-      "title": "Micro-SaaS for Freelancers",
+      "title": "Micro-SaaS for Freelancers II",
       "summary": "A personal dashboard to manage freelance work.",
       "description": "A lightweight SaaS platform that helps freelancers track their clients, invoices, contracts, and income in one place. Built specifically for solopreneurs who don’t need bulky CRM tools but want visibility into their business and finances. Includes tax estimates, recurring invoice reminders, and expense logging.",
       "tags": [
@@ -34,7 +31,7 @@
         "saas",
         "tools"
       ],
-      "createdAt": "2025-04-29T09:15:00.000Z"
+      "id": "3"
     },
     {
       "id": "4",
